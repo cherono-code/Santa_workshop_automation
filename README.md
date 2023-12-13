@@ -1,6 +1,8 @@
+Jingle Bells, Code Spells: ALX Holiday Challenge
+
 Santa's Workshop: Gift Delivery Automation
 
-Santa's Workshop
+Santa's Workshop Automation
 
 Overview
 
